@@ -19,7 +19,7 @@ A beginner EDA project. In this Project we have done a EDA on AirbnbBookings.
 . Map of Neighbourhood
 . Availabity of rooom
 
-Conclusion:
+# Conclusion:
 In Given data Most listing count in (home/apartment) and (Private_room) have more rooms than (Shared_room).
 Based on Rooms:
 
