@@ -46,9 +46,9 @@ According To the Review score Brooklyn has the highest review score where as sta
 Price vs Availability:
 
 To understand if there is any price increase based on the availability and looking above the plot its hardly to infer. But looks like with availability with 365 the price increases to 10K.
-According to the Avg grouping data:
 
-Avg price is high in (home/apartment) in Manhattan locaton, And low price in (shared_ room) in bronx
-avg review count is high in shared rooms but price is low.
+According to the Avg grouping data:
+Avg price is high in (home/apartment) in Manhattan locaton, And low price in (shared_ room) in bronx. 
+The avg review count is high in shared rooms but price is low.
 
 
